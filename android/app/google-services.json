@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338388864973",
+    "project_id": "modulex-39998",
+    "storage_bucket": "modulex-39998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338388864973:android:7f9e2b733c9de891aa7e84",
+        "android_client_info": {
+          "package_name": "com.example.modulexapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338388864973-u80eefujm589ggmn7p9ash9449otm6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZH5oqceSMTjAoSt8uBhE5gbV8h5F-9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338388864973-u80eefujm589ggmn7p9ash9449otm6nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
